@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on any kind of project!
 - 📫 How to reach me: Discord: miguel#7022
 
-<b><h3 align='center'>💻 I work with</h3></b>
+<b><h3 align='center'>💻 I work with...</h3></b>
 <br>
 
 <p align='center'>
