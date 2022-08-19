@@ -1,11 +1,5 @@
 ![githubbanner](https://github.com/mmigueel/mmigueel/blob/main/githubbanner.png)
 
-- 👋 Hi, I’m @mmigueel
-- 👀 I’m interested in Video Games & Mobile Apps development.
-- 🌱 I’m currently learning C++, C# and Node.js.
-- 💞️ I’m looking to collaborate on any kind of project!
-- 📫 How to reach me: Discord: miguel#7022
-
 <b><h3 align='center'>💻 I work with...</h3></b>
 <br>
 
