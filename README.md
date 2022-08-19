@@ -1,4 +1,4 @@
-[githubbanner](https://github.com/mmigueel/mmigueel/blob/main/githubbanner.png?raw=true)
+![githubbanner](https://github.com/mmigueel/mmigueel/blob/main/githubbanner.png)
 
 - 👋 Hi, I’m @mmigueel
 - 👀 I’m interested in Video Games & Mobile Apps development.
